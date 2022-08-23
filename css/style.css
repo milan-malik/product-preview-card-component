@@ -74,7 +74,7 @@ body {
     }
 
 .attribution {
-  position: fixed;
+  position: absolute;
   bottom: 1rem; }
 
 @media screen and (min-width: 1440px) {
